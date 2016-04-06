@@ -1,1 +1,1 @@
-[This way -->](http://nkmathew.github.io)
+Repo has content for my boring static site: www.nkmathew.net
