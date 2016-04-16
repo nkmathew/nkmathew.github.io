@@ -1,0 +1,24 @@
+html, body {
+  background-color: #3F6B42;
+  font-family: 'Comic Sans';
+  height: 100%;
+}
+
+body {
+  display: table;
+  font-weight: 100;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.content {
+  display: inline-block;
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.banner {
+  font-size: 96px;
+}
